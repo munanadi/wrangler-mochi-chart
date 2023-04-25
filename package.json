@@ -1,0 +1,14 @@
+{
+  "name": "wrangler-demo",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20230404.0",
+    "typescript": "^5.0.4",
+    "wrangler": "2.14.0"
+  },
+  "private": true,
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "chartjs-node-canvas": "^4.1.6"
+  }
+}
